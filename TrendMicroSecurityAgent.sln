@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendMicroSecurityAgent", "TrendMicroSecurityAgent\TrendMicroSecurityAgent.csproj", "{04102FC0-539B-4815-9850-2FFED6C1EABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04102FC0-539B-4815-9850-2FFED6C1EABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04102FC0-539B-4815-9850-2FFED6C1EABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04102FC0-539B-4815-9850-2FFED6C1EABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04102FC0-539B-4815-9850-2FFED6C1EABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F5F751-C70B-4D71-8207-CD2F447CE8FD}
+	EndGlobalSection
+EndGlobal

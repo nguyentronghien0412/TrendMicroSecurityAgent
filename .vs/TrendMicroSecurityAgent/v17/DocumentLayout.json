@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|f:\\project other\\anh huy\\trendmicrosecurityagent\\trendmicrosecurityagent\\frmtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|solutionrelative:trendmicrosecurityagent\\frmtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|f:\\project other\\anh huy\\trendmicrosecurityagent\\trendmicrosecurityagent\\frmupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|solutionrelative:trendmicrosecurityagent\\frmupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|f:\\project other\\anh huy\\trendmicrosecurityagent\\trendmicrosecurityagent\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|solutionrelative:trendmicrosecurityagent\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\trendmicrosecurityagent\\frmscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|solutionrelative:trendmicrosecurityagent\\frmscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\trendmicrosecurityagent\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|solutionrelative:trendmicrosecurityagent\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|f:\\project other\\anh huy\\trendmicrosecurityagent\\trendmicrosecurityagent\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|solutionrelative:trendmicrosecurityagent\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|f:\\project other\\anh huy\\trendmicrosecurityagent\\trendmicrosecurityagent\\frmscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04102FC0-539B-4815-9850-2FFED6C1EABF}|TrendMicroSecurityAgent\\TrendMicroSecurityAgent.csproj|solutionrelative:trendmicrosecurityagent\\frmscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTools.cs [Design]",
+              "DocumentMoniker": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmTools.cs",
+              "RelativeDocumentMoniker": "TrendMicroSecurityAgent\\frmTools.cs",
+              "ToolTip": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmTools.cs [Design]",
+              "RelativeToolTip": "TrendMicroSecurityAgent\\frmTools.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:05:04.136Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUpdate.cs [Design]",
+              "DocumentMoniker": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmUpdate.cs",
+              "RelativeDocumentMoniker": "TrendMicroSecurityAgent\\frmUpdate.cs",
+              "ToolTip": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmUpdate.cs [Design]",
+              "RelativeToolTip": "TrendMicroSecurityAgent\\frmUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:05:02.183Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSetting.cs [Design]",
+              "DocumentMoniker": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmSetting.cs",
+              "RelativeDocumentMoniker": "TrendMicroSecurityAgent\\frmSetting.cs",
+              "ToolTip": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmSetting.cs [Design]",
+              "RelativeToolTip": "TrendMicroSecurityAgent\\frmSetting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:04:59.828Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmScan.cs",
+              "DocumentMoniker": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmScan.cs",
+              "RelativeDocumentMoniker": "TrendMicroSecurityAgent\\frmScan.cs",
+              "ToolTip": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmScan.cs",
+              "RelativeToolTip": "TrendMicroSecurityAgent\\frmScan.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAqwKkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:02:13.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmScan.cs [Design]",
+              "DocumentMoniker": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmScan.cs",
+              "RelativeDocumentMoniker": "TrendMicroSecurityAgent\\frmScan.cs",
+              "ToolTip": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmScan.cs [Design]",
+              "RelativeToolTip": "TrendMicroSecurityAgent\\frmScan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:00:49.37Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDashboard.cs",
+              "DocumentMoniker": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "TrendMicroSecurityAgent\\frmDashboard.cs",
+              "ToolTip": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmDashboard.cs",
+              "RelativeToolTip": "TrendMicroSecurityAgent\\frmDashboard.cs",
+              "ViewState": "AgIAAEcCAAAAAAAAAAAAAAsCAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:53:38.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDashboard.cs [Design]",
+              "DocumentMoniker": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmDashboard.cs",
+              "RelativeDocumentMoniker": "TrendMicroSecurityAgent\\frmDashboard.cs",
+              "ToolTip": "F:\\Project Other\\Anh Huy\\TrendMicroSecurityAgent\\TrendMicroSecurityAgent\\frmDashboard.cs [Design]",
+              "RelativeToolTip": "TrendMicroSecurityAgent\\frmDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:53:33.559Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
